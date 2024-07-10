@@ -1,1 +1,1 @@
-[# test](http://test.eroshi1o.beget.tech/)
+http://test.eroshi1o.beget.tech/
